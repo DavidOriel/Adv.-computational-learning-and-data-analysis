@@ -9,7 +9,8 @@ NN.ipynb - Notebooke where i built a complete and flexible library free neural n
 Outograd.ipynb - Notebook where i research the Autograd feature for gradient computations
 
 EX2- 
-CNN_RNN.ipynb - Notebook where i have built a complete, library free CNN and RNN.
+CNN_RNN.ipynb - Notebook where i have built a complete, library free CNN and RNN.  
 
-EX3-
+EX3- 
+Attention_please.ipynb - contains work with 'seq2seq' and 'Attention' mechanisms and build a couple of PyTorch translation mechanisms with some twists.
 
