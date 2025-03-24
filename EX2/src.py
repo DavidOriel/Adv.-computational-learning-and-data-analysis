@@ -1,10 +1,8 @@
-import numpy as np # You are allowed to use  only numpy.
+import numpy as np 
 import time, sys, cProfile
 import matplotlib.pyplot as plt
 
-
 import cProfile as profile
-import numpy as np  # You are allowed to use only numpy.
 import cProfile
 
 class Layer_Primitive:
